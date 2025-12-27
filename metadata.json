@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI",
+  "description": "Advanced NLP-powered phishing detection and security analysis tool. Scans emails, messages, and URLs for malicious patterns using Gemini AI.",
+  "requestFramePermissions": []
+}
